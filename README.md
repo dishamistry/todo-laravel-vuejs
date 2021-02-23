@@ -63,6 +63,6 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 ## To get started
-php artisan migrate
-php artisan serve
-npm run watch
+- $ php artisan migrate
+- $ php artisan serve
+- $ npm run watch
